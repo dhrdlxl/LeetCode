@@ -41,7 +41,6 @@ class Solution {
             }
         }
         
-        int answer = n * n + 1;
         while (!q2.isEmpty()) {
             int row = q2.poll();
             int col = q2.poll();
@@ -51,15 +50,12 @@ class Solution {
                 int nextCol = col + move[direction][1];
                 
                 if (nextRow >= 0 && nextRow < n && nextCol >= 0 && nextCol < n) {
-                    if (mask[nextRow][nextCol] == -1 || mask[nextRow][nextCol] > mask[row][col] + 1) {
+                    if (mask[nextRow][nextCol] == -1) {
                         
                         if (grid[nextRow][nextCol] == 0) { // water
                             mask[nextRow][nextCol] = mask[row][col] + 1;
                         } else { //land
-                            mask[nextRow][nextCol] = mask[row][col];
-                            if (mask[nextRow][nextCol] != 0 && mask[nextRow][nextCol] < answer) {
-                                answer = mask[nextRow][nextCol];
-                            }
+                            return mask[row][col]; // answer;
                         }
                         
                         q2.offer(nextRow);
@@ -69,6 +65,6 @@ class Solution {
             }
         }
         
-        return answer;
+        return -1;
     }
 }
