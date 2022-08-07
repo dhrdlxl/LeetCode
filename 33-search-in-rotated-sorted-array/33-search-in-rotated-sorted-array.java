@@ -1,38 +1,38 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int answer = -1;
+        // 1. 가장 작은 값 Index 구하기(== rotate 횟수)
         int left = 0;
         int right = nums.length - 1;
-        
-        while (left <= right) {
+        while (left < right) {
             int mid = (left + right) / 2;
             
-            if (nums[left] == target) {
-                answer = left;
-                break;
-            } else if (nums[mid] == target) {
-                answer = mid;
-                break;
-            } else if (nums[right] == target) {
-                answer = right;
-                break;
-            }
-            
-            if (nums[left] < nums[mid]) { // 왼쪽이 정렬된 상태
-                if(nums[left] <= target && target <= nums[mid]) {
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
-            } else { // 오른쪽이 정렬된 상태
-                if (nums[mid] <= target && target <= nums[right]) {
-                    left = mid + 1;
-                } else {
-                    right = mid - 1;
-                }
+            if (nums[right] < nums[mid]) { // 순서가 뒤집힌 경우
+                left = mid + 1;
+            } else {
+                right = mid;
             }
         }
         
-        return answer;
+        int pivotMove = right;// rotate한 횟수
+        
+        
+        // 2. 1에서 구한 값을 적용해서 target Index 구하기
+        left = 0;
+        right = nums.length - 1;
+        
+        while (left <= right) {
+            int mid = ((left + right) / 2 + pivotMove) % nums.length;
+            
+            if (nums[mid] == target) {
+                return mid;
+            } else if (nums[mid] < target) {
+                left = (left + right) / 2 + 1;
+            } else {
+                right = (left + right) / 2 - 1;
+            }
+        }
+        
+        
+        return -1;
     }
 }
