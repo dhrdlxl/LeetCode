@@ -1,46 +1,27 @@
 class MyStack {
-    private Queue<Integer>[] queue;
-    private int type;
+    private Queue<Integer> queue;
+    
     public MyStack() {
-        queue = new LinkedList[2];
-        for (int i = 0; i < 2; i ++) {
-            queue[i] = new LinkedList<Integer>();
-        }
-        
-        type = 0;
+        queue = new LinkedList<>();
     }
     
     public void push(int x) {
-        queue[type].offer(x);
+        queue.add(x);
+        for (int i = 0; i < queue.size() - 1; i++) {
+            queue.add(queue.remove());
+        }
     }
     
     public int pop() {
-        int otherType = (1 ^ type);
-        
-        while(queue[type].size() > 1) {
-            queue[otherType].offer(queue[type].poll());
-        }
-        
-        int popElement = queue[type].poll();
-        type = otherType;
-        return popElement;
+        return queue.remove();
     }
     
     public int top() {
-        int otherType = (1 ^ type);
-        
-        while(queue[type].size() > 1) {
-            queue[otherType].offer(queue[type].poll());
-        }
-        
-        int top = queue[type].peek();
-        queue[otherType].offer(queue[type].poll());
-        type = otherType;
-        return top;
+        return queue.peek();
     }
     
     public boolean empty() {
-        return queue[type].isEmpty();
+        return queue.isEmpty();
     }
 }
 
