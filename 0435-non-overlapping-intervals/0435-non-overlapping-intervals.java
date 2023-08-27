@@ -4,9 +4,6 @@ class Solution {
         int start = -50001;
         int end = -50000;
         Arrays.sort(intervals, (a, b) -> a[0] != b[0] ? a[0] - b[0] : a[1] - b[1]);
-        for (int[] interval : intervals) {
-            System.out.println(interval[0] + " " + interval[1]);
-        }
         
         for (int[] interval : intervals) {
             if (start <= interval[0] && interval[0] < end ) {
