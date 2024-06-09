@@ -10,7 +10,7 @@ class Solution {
             }
         }
         
-        for (int i = n - 1; i >= 0; i--) {
+        for (int i = n - 1; i > answer; i--) {
             while (!stack.isEmpty() && nums[stack.peek()] <= nums[i]) {
                 answer = Math.max(answer, i - stack.pop());
             }
