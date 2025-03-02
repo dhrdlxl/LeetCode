@@ -51,6 +51,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/dhrdlxl/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1532-reformat-the-string](https://github.com/dhrdlxl/LeetCode/tree/master/1532-reformat-the-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -89,6 +90,7 @@ LeetCode 풀이 레포지토리 입니다.
 ## Sliding Window
 |  |
 | ------- |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
 |  |
