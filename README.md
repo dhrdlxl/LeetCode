@@ -106,9 +106,15 @@ LeetCode 풀이 레포지토리 입니다.
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/dhrdlxl/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhrdlxl/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/dhrdlxl/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhrdlxl/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/dhrdlxl/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
