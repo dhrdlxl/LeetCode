@@ -32,6 +32,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhrdlxl/LeetCode/tree/master/0070-climbing-stairs) |
 | [0376-wiggle-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Memoization
 |  |
@@ -53,6 +54,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/dhrdlxl/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0657-robot-return-to-origin](https://github.com/dhrdlxl/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1250-longest-common-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1532-reformat-the-string](https://github.com/dhrdlxl/LeetCode/tree/master/1532-reformat-the-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
