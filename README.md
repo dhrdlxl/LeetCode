@@ -69,6 +69,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhrdlxl/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhrdlxl/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhrdlxl/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/dhrdlxl/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Breadth-First Search
@@ -76,6 +77,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhrdlxl/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhrdlxl/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhrdlxl/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/dhrdlxl/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Union Find
@@ -85,6 +87,7 @@ LeetCode 풀이 레포지토리 입니다.
 ## Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhrdlxl/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/dhrdlxl/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Greedy
@@ -127,4 +130,8 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/dhrdlxl/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
