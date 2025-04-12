@@ -54,6 +54,7 @@ LeetCode 풀이 레포지토리 입니다.
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/dhrdlxl/LeetCode/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/dhrdlxl/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0657-robot-return-to-origin](https://github.com/dhrdlxl/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1250-longest-common-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/1250-longest-common-subsequence) |
