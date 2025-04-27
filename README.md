@@ -67,10 +67,12 @@ LeetCode 풀이 레포지토리 입니다.
 | [1532-reformat-the-string](https://github.com/dhrdlxl/LeetCode/tree/master/1532-reformat-the-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Depth-First Search
 |  |
@@ -108,11 +110,13 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Simulation
 |  |
 | ------- |
