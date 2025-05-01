@@ -6,6 +6,7 @@ LeetCode 풀이 레포지토리 입니다.
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0376-wiggle-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/dhrdlxl/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
@@ -36,6 +37,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhrdlxl/LeetCode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0376-wiggle-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
