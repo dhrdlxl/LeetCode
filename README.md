@@ -63,6 +63,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0038-count-and-say](https://github.com/dhrdlxl/LeetCode/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/dhrdlxl/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhrdlxl/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0214-shortest-palindrome](https://github.com/dhrdlxl/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/dhrdlxl/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1250-longest-common-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -158,4 +159,16 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dhrdlxl/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dhrdlxl/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dhrdlxl/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
