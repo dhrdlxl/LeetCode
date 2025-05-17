@@ -14,6 +14,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
 ## Two Pointers
@@ -35,6 +36,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0168-excel-sheet-column-title](https://github.com/dhrdlxl/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhrdlxl/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhrdlxl/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +57,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +137,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0561-array-partition](https://github.com/dhrdlxl/LeetCode/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Tree
 |  |
 | ------- |
