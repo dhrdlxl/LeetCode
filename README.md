@@ -12,6 +12,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
@@ -25,6 +26,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0561-array-partition](https://github.com/dhrdlxl/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -49,6 +51,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -129,6 +132,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/dhrdlxl/LeetCode/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Tree
 |  |
