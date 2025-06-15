@@ -37,6 +37,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0168-excel-sheet-column-title](https://github.com/dhrdlxl/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhrdlxl/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhrdlxl/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0657-robot-return-to-origin](https://github.com/dhrdlxl/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1250-longest-common-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1532-reformat-the-string](https://github.com/dhrdlxl/LeetCode/tree/master/1532-reformat-the-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -128,6 +130,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dhrdlxl/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Simulation
