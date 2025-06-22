@@ -16,6 +16,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/dhrdlxl/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
@@ -62,6 +63,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/dhrdlxl/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Bit Manipulation
 |  |
@@ -127,6 +129,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/dhrdlxl/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
@@ -135,6 +138,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/dhrdlxl/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Simulation
 |  |
