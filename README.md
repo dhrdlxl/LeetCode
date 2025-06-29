@@ -200,4 +200,8 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhrdlxl/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
