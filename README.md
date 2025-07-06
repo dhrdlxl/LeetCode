@@ -16,6 +16,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dhrdlxl/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/dhrdlxl/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -182,6 +183,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
 ## Matrix
@@ -208,5 +210,18 @@ LeetCode 풀이 레포지토리 입니다.
 ## Linked List
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhrdlxl/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
