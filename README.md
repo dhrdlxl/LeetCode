@@ -48,6 +48,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhrdlxl/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhrdlxl/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2032-largest-odd-number-in-string](https://github.com/dhrdlxl/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
@@ -99,6 +100,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2032-largest-odd-number-in-string](https://github.com/dhrdlxl/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -140,6 +142,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0376-wiggle-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/dhrdlxl/LeetCode/tree/master/0561-array-partition) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/dhrdlxl/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
