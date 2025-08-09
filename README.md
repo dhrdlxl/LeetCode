@@ -15,6 +15,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dhrdlxl/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/dhrdlxl/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
@@ -113,6 +114,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhrdlxl/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhrdlxl/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [1396-count-servers-that-communicate](https://github.com/dhrdlxl/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhrdlxl/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/dhrdlxl/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
@@ -123,12 +125,14 @@ LeetCode 풀이 레포지토리 입니다.
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhrdlxl/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhrdlxl/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1396-count-servers-that-communicate](https://github.com/dhrdlxl/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhrdlxl/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/dhrdlxl/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 ## Union Find
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/dhrdlxl/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhrdlxl/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
@@ -169,6 +173,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/dhrdlxl/LeetCode/tree/master/0561-array-partition) |
+| [1396-count-servers-that-communicate](https://github.com/dhrdlxl/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -206,6 +211,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1396-count-servers-that-communicate](https://github.com/dhrdlxl/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/dhrdlxl/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 ## Rolling Hash
 |  |
