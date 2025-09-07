@@ -28,6 +28,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [2480-find-subarrays-with-equal-sum](https://github.com/dhrdlxl/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhrdlxl/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/dhrdlxl/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhrdlxl/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/dhrdlxl/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/dhrdlxl/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Memoization
 |  |
 | ------- |
