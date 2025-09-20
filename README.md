@@ -30,6 +30,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [2480-find-subarrays-with-equal-sum](https://github.com/dhrdlxl/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhrdlxl/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/dhrdlxl/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhrdlxl/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/dhrdlxl/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
 |  |
 | ------- |
