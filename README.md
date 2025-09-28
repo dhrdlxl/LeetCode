@@ -85,6 +85,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhrdlxl/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dhrdlxl/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/dhrdlxl/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -137,6 +138,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhrdlxl/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/dhrdlxl/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dhrdlxl/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dhrdlxl/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -150,6 +152,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhrdlxl/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1493-frog-position-after-t-seconds](https://github.com/dhrdlxl/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dhrdlxl/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dhrdlxl/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -213,6 +216,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0450-delete-node-in-a-bst](https://github.com/dhrdlxl/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhrdlxl/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1493-frog-position-after-t-seconds](https://github.com/dhrdlxl/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dhrdlxl/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
