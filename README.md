@@ -53,6 +53,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0070-climbing-stairs](https://github.com/dhrdlxl/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/dhrdlxl/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dhrdlxl/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0319-bulb-switcher](https://github.com/dhrdlxl/LeetCode/tree/master/0319-bulb-switcher) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhrdlxl/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/dhrdlxl/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0903-implement-rand10-using-rand7](https://github.com/dhrdlxl/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
@@ -296,4 +297,8 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/dhrdlxl/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/dhrdlxl/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
