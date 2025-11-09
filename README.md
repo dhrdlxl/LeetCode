@@ -13,6 +13,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0561-array-partition](https://github.com/dhrdlxl/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0833-bus-routes](https://github.com/dhrdlxl/LeetCode/tree/master/0833-bus-routes) |
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dhrdlxl/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -86,6 +87,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [0127-word-ladder](https://github.com/dhrdlxl/LeetCode/tree/master/0127-word-ladder) |
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
+| [0833-bus-routes](https://github.com/dhrdlxl/LeetCode/tree/master/0833-bus-routes) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhrdlxl/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhrdlxl/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhrdlxl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +154,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhrdlxl/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/dhrdlxl/LeetCode/tree/master/0127-word-ladder) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhrdlxl/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0833-bus-routes](https://github.com/dhrdlxl/LeetCode/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/dhrdlxl/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dhrdlxl/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
