@@ -14,6 +14,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0833-bus-routes](https://github.com/dhrdlxl/LeetCode/tree/master/0833-bus-routes) |
+| [0879-maximize-distance-to-closest-person](https://github.com/dhrdlxl/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dhrdlxl/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
