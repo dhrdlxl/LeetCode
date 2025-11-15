@@ -38,6 +38,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1454-remove-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sorting
 |  |
@@ -122,6 +123,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1250-longest-common-subsequence](https://github.com/dhrdlxl/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/dhrdlxl/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1454-remove-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhrdlxl/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/dhrdlxl/LeetCode/tree/master/1532-reformat-the-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
