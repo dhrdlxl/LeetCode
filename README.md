@@ -80,6 +80,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhrdlxl/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dhrdlxl/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/dhrdlxl/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2746-decremental-string-concatenation](https://github.com/dhrdlxl/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/dhrdlxl/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -114,6 +115,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhrdlxl/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2032-largest-odd-number-in-string](https://github.com/dhrdlxl/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2226-rings-and-rods](https://github.com/dhrdlxl/LeetCode/tree/master/2226-rings-and-rods) |
@@ -325,4 +328,12 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [1705-maximum-number-of-eaten-apples](https://github.com/dhrdlxl/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
+## Backtracking
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Bitmask
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
