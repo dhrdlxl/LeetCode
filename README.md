@@ -24,6 +24,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhrdlxl/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/dhrdlxl/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1848-sum-of-unique-elements](https://github.com/dhrdlxl/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dhrdlxl/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/dhrdlxl/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -190,6 +191,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0561-array-partition](https://github.com/dhrdlxl/LeetCode/tree/master/0561-array-partition) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhrdlxl/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/dhrdlxl/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2032-largest-odd-number-in-string](https://github.com/dhrdlxl/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
@@ -319,4 +321,8 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dhrdlxl/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1705-maximum-number-of-eaten-apples](https://github.com/dhrdlxl/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 <!---LeetCode Topics End-->
