@@ -80,6 +80,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhrdlxl/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/dhrdlxl/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dhrdlxl/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/dhrdlxl/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -101,6 +102,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dhrdlxl/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/dhrdlxl/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1848-sum-of-unique-elements](https://github.com/dhrdlxl/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -135,6 +137,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhrdlxl/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/dhrdlxl/LeetCode/tree/master/1532-reformat-the-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/dhrdlxl/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dhrdlxl/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dhrdlxl/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -338,4 +341,8 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Enumeration
+|  |
+| ------- |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/dhrdlxl/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 <!---LeetCode Topics End-->
