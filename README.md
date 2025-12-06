@@ -32,6 +32,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/dhrdlxl/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2678-number-of-senior-citizens](https://github.com/dhrdlxl/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2746-decremental-string-concatenation](https://github.com/dhrdlxl/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhrdlxl/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -141,6 +142,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2226-rings-and-rods](https://github.com/dhrdlxl/LeetCode/tree/master/2226-rings-and-rods) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2678-number-of-senior-citizens](https://github.com/dhrdlxl/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2746-decremental-string-concatenation](https://github.com/dhrdlxl/LeetCode/tree/master/2746-decremental-string-concatenation) |
 ## Prefix Sum
 |  |
