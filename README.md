@@ -37,6 +37,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [2846-robot-collisions](https://github.com/dhrdlxl/LeetCode/tree/master/2846-robot-collisions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhrdlxl/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/dhrdlxl/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/dhrdlxl/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +154,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Depth-First Search
 |  |
 | ------- |
