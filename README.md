@@ -28,6 +28,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1705-maximum-number-of-eaten-apples](https://github.com/dhrdlxl/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1848-sum-of-unique-elements](https://github.com/dhrdlxl/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dhrdlxl/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhrdlxl/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/dhrdlxl/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/dhrdlxl/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -70,6 +71,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhrdlxl/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/dhrdlxl/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhrdlxl/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2448-count-number-of-bad-pairs](https://github.com/dhrdlxl/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -86,6 +88,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/dhrdlxl/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dhrdlxl/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dhrdlxl/LeetCode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhrdlxl/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/dhrdlxl/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2746-decremental-string-concatenation](https://github.com/dhrdlxl/LeetCode/tree/master/2746-decremental-string-concatenation) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/dhrdlxl/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
