@@ -14,6 +14,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0566-reshape-the-matrix](https://github.com/dhrdlxl/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/dhrdlxl/LeetCode/tree/master/0645-set-mismatch) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/dhrdlxl/LeetCode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0833-bus-routes](https://github.com/dhrdlxl/LeetCode/tree/master/0833-bus-routes) |
 | [0879-maximize-distance-to-closest-person](https://github.com/dhrdlxl/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -157,6 +158,7 @@ LeetCode 풀이 레포지토리 입니다.
 ## Prefix Sum
 |  |
 | ------- |
+| [0798-smallest-rotation-with-highest-score](https://github.com/dhrdlxl/LeetCode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/dhrdlxl/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhrdlxl/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
