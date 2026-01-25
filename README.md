@@ -29,6 +29,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhrdlxl/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/dhrdlxl/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/dhrdlxl/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1848-sum-of-unique-elements](https://github.com/dhrdlxl/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dhrdlxl/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/dhrdlxl/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -225,6 +226,7 @@ LeetCode 풀이 레포지토리 입니다.
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhrdlxl/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dhrdlxl/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/dhrdlxl/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/dhrdlxl/LeetCode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/dhrdlxl/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
