@@ -18,6 +18,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0798-smallest-rotation-with-highest-score](https://github.com/dhrdlxl/LeetCode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0833-bus-routes](https://github.com/dhrdlxl/LeetCode/tree/master/0833-bus-routes) |
 | [0879-maximize-distance-to-closest-person](https://github.com/dhrdlxl/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
+| [0892-surface-area-of-3d-shapes](https://github.com/dhrdlxl/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0941-sort-array-by-parity](https://github.com/dhrdlxl/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dhrdlxl/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -73,6 +74,7 @@ LeetCode 풀이 레포지토리 입니다.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhrdlxl/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/dhrdlxl/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/dhrdlxl/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0892-surface-area-of-3d-shapes](https://github.com/dhrdlxl/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0903-implement-rand10-using-rand7](https://github.com/dhrdlxl/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dhrdlxl/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/dhrdlxl/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -293,6 +295,7 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/dhrdlxl/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0892-surface-area-of-3d-shapes](https://github.com/dhrdlxl/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/dhrdlxl/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/dhrdlxl/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/dhrdlxl/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -374,4 +377,8 @@ LeetCode 풀이 레포지토리 입니다.
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/dhrdlxl/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/dhrdlxl/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
