@@ -320,6 +320,7 @@ LeetCode 풀이 레포지토리 입니다.
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/dhrdlxl/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [1582-design-browser-history](https://github.com/dhrdlxl/LeetCode/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhrdlxl/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
